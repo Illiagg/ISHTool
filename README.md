@@ -9,7 +9,9 @@ git clone https://github.com/Illiagg/ISHTool
 cd ISHTool 
          
 python3 main.py
-
+        
+---------------------------
+          
 For Termux:
     
 pkg install python3
