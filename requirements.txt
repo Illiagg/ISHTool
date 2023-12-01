@@ -5,3 +5,4 @@ threading
 phonenumbers
 bs4
 faker
+pystyle
