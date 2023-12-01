@@ -23,3 +23,13 @@ git clone https://github.com/Illiagg/ISHTool
 cd ISHTool 
          
 python3 main.py
+
+for update tool write:
+
+cd ISHTool
+
+git pull
+
+-------------------------
+
+GOOD LUCK!  
