@@ -2,6 +2,6 @@ socket
 validators
 requests
 threading
-time
 phonenumbers
-pystyle
+bs4
+faker
